@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @D4vidHuang
-- Now A Student in TUDelft major in Computer Science and Engineering.
-- A super fan of RNG and League of Legends.
+- Now a master student in TUDelft major in DSAIT.
+- My research interests mainly focus on AIGC, Computer Vision and LLM4Code.
 - Also cosplayer: )
-- Want to study in one of the top university in the world.
+- Want to study in one of the top universities in the world.
 - 📫 Y.Huang-51@student.tudelft.nl
 
 
