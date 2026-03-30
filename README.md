@@ -3,6 +3,6 @@
 - My research interests mainly focus on AIGC, Computer Vision and LLM4Code.
 - Want to study in one of the top universities in the world.
 - 📫 Y.Huang-51@student.tudelft.nl
-- https://huangs-website.webflow.io/
+- d4vidhuang.github.io
 
 
