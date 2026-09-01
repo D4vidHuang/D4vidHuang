@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @D4vidHuang
-- Now a master student in TUDelft major in DSAIT.
-- My research interests mainly focus on AIGC, Computer Vision and LLM4Code.
-- Want to study in one of the top universities in the world.
-- 📫 Y.Huang-51@student.tudelft.nl
+- Now a PhD student in TUDelft FUSE lab.
+- My research interests mainly focus on AI4SE, especially code refactoring.
+- Want to be one of the best researchers in the world.
+- 📫 Y.Huang-12@tudelft.nl
 - d4vidhuang.github.io
 
 
